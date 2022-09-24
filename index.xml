@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HAMZA&#39;s PORTFOLIO on Hamza</title>
+    <link>https://hamza367.github.io/Website/</link>
+    <description>Recent content in HAMZA&#39;s PORTFOLIO on Hamza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://hamza367.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: My Linkedin Profile Insights</title>
+      <link>https://hamza367.github.io/Website/post/project2/</link>
+      <pubDate>Fri, 23 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://hamza367.github.io/Website/post/project2/</guid>
+      <description>Extracted data from my Linkedin Profile and made a dashboard in Tableau. Highlighted which companies most of my connections work in and what their job titles are. Also showed the year over year growth of my connections.
+Tools used: Microsoft Excel and Tableau
+Dashboard: https://public.tableau.com/app/profile/hamza.ahmed4618/viz/MyLinkedinProfileInsights/Dashboard1</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Forecast of Percent Population Infected with Covid</title>
+      <link>https://hamza367.github.io/Website/post/project1/</link>
+      <pubDate>Thu, 04 Aug 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://hamza367.github.io/Website/post/project1/</guid>
+      <description>Made a dashboard that uses past data to forecast what percentage of country population will be infected by Covid-19 in 2023.
+Tools used: Excel, Microsoft SQL Server, Tableau
+Dashboard: https://public.tableau.com/app/profile/hamza.ahmed4618/viz/CovidDashboard_16596506467250/Dashboard1
+SQL code: https://github.com/Hamza367/PortfolioProjects/blob/main/COVID_Portfolio_Project.sql
+Data source: https://ourworldindata.org/covid-deaths</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hamza367.github.io/Website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hamza367.github.io/Website/about/</guid>
+      <description>Data Analysis is my passion. I am transitioning into data analytics from a mechanincal engineering and business background. When I was starting out on my data journey, I was extremely lost. I found comfort in believing that learning new skills needs to be a marathon and not a sprint. Now I am well versed in tools like Microsoft SQL Server, Excel, Python, R and Tableau.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://hamza367.github.io/Website/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hamza367.github.io/Website/contact/</guid>
+      <description>Feel free to contact me, I look forward to connect with you.
+Platform Linkedin: https://www.linkedin.com/in/hamza367/ Github: https://github.com/Hamza367 </description>
+    </item>
+    
+  </channel>
+</rss>
